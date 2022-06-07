@@ -1,6 +1,7 @@
 body {
   font-family: sans-serif;
-  line-height: 1.5;
+  font-size:14px;
+  line-height: 2;
 
   background-color: #f9f9f9;
   color: #333333;
@@ -18,10 +19,4 @@ h1 {
 main > h2 {
   text-align: center;
   font-size: 25px;
-}
-
-p {
-  text-align: left;
-  font-size: 14px;
-  line-height: 1.5;
 }
